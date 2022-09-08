@@ -1,0 +1,9 @@
+{
+  "name": "redux-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:KunHwanAhn/redux-study.git",
+  "author": "Conan Kunhwan Ahn <kunhwon@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {}
+}
